@@ -1,10 +1,14 @@
 .header
 {
+   
+    background-color: #acf0b2;
+    height: 30px;
+}
+h1
+{
     color: blue;
     font-size: larger;
     text-align: center;
-    background-color: #acf0b2;
-    height: 30px;
 }
 .content
 {
