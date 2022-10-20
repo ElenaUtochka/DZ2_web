@@ -1,0 +1,30 @@
+.header
+{
+    color: blue;
+    font-size: larger;
+    text-align: center;
+    background-color: #acf0b2;
+    height: 30px;
+}
+.content
+{
+    color:darkblue;
+    font-size: medium;
+    background-color: rgb(247, 218, 248);
+}
+.list
+{
+    color: aquamarine;
+    background-color: indigo;
+}
+img
+{
+        width: 100%;
+        height: auto;
+}
+.footer
+{
+    color:blue;
+    font-size:larger;
+    text-align: center;
+}
